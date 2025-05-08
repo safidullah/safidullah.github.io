@@ -10,17 +10,17 @@ Here is a visual collection of the professional certifications I've earned over 
 <div class="row">
 
   <div class="col-md-4 mb-4">
-    <img src="/assets/img/certifications/google-it-support.jpg" alt="Google IT Support" class="img-fluid rounded shadow-sm">
+    <img src="/assets/img/certifications/bits.PNG" alt="Google IT Support" class="img-fluid rounded shadow-sm">
     <p class="text-center mt-2">Google IT Support</p>
   </div>
 
   <div class="col-md-4 mb-4">
-    <img src="/assets/img/certifications/ccna.jpg" alt="CCNA" class="img-fluid rounded shadow-sm">
+    <img src="/assets/img/certifications/bits.PNG" alt="CCNA" class="img-fluid rounded shadow-sm">
     <p class="text-center mt-2">Cisco Certified Network Associate (CCNA)</p>
   </div>
 
   <div class="col-md-4 mb-4">
-    <img src="/assets/img/certifications/fortinet-nse1.jpg" alt="Fortinet NSE1" class="img-fluid rounded shadow-sm">
+    <img src="/assets/img/certifications/bits.PNG" alt="Fortinet NSE1" class="img-fluid rounded shadow-sm">
     <p class="text-center mt-2">Fortinet NSE 1</p>
   </div>
 
