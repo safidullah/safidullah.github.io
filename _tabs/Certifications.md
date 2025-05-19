@@ -144,3 +144,30 @@ Here is a visual collection of the professional certifications I've earned over 
   </div>
 
 </div>
+<div class="row">
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/Defense Again the digital dark arts.PNG" alt="Google IT Support" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">Defense Again the digital dark arts</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/ZX2VAPNVGQ9C" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/Data Analysis with Python.PNG" alt="CCNA" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">Data Analysis with Python</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/SZYCWH6PNYU4" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/Application Development with Python.PNG" alt="Fortinet NSE1" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">AppDev with Python</p>
+    <div class="text-center">
+      <a href="https://www.linkedin.com/learning/certificates/2fc77af5185d94daac65bbdb3448138a1605c6a144be860598a4d7e4050ec40c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B5OkC2fZ%2FRi%2Bey%2FMmEViDPw%3D%3D" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+</div>
