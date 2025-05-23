@@ -171,3 +171,219 @@ Here is a visual collection of the professional certifications I've earned over 
   </div>
 
 </div>
+<div class="row">
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/Python for Everybody.PNG" alt="Google IT Support" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">Python for Everybody</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/specialization/GV8ZQGDGAVTD" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/Cyber Security tools & Cyber Attacks.PNG" alt="CCNA" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">Cyber Security tools & Cyber Attacks</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/J75WPYDDGRLK" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/Infosec Roles & OS Security.PNG" alt="Fortinet NSE1" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">Infosec Roles & OS Security</p>
+    <div class="text-center">
+      <a href="https://www.credly.com/badges/d4e3f313-930d-4f88-92fb-fc412cc3e169/linked_in_profile" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+</div>
+<div class="row">
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/CCFSA.PNG" alt="Google IT Support" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">CCFSA</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/DZKVW9TXCX6N" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/Network Security and DB vulnerabilities.PNG" alt="CCNA" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">Network Security and DB vulnerabilities</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/YWFMHGNUE24A" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/Pentesting, Threat Hunting, and Cryptography.PNG" alt="Fortinet NSE1" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">Pentesting, Threat Hunting, and Cryptography</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/T2GTURQKXZYE" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+</div>
+<div class="row">
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/Incident Response and Digital Forensics.PNG" alt="Google IT Support" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">Incident Response and Digital Forensics</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/B4VETQX3DHTQ" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/Automate Cybersecurity Tasks with Python.PNG" alt="CCNA" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">Automate Cybersecurity Tasks with Python</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/BJYND68MKV8F" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/Introduction to Ethical Hacker.PNG" alt="Fortinet NSE1" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">Introduction to Ethical Hacker</p>
+    <div class="text-center">
+      <a href="https://www.linkedin.com/in/safid-ullah-shah-it-specialist/details/certifications/1720188962201/single-media-viewer/?type=IMAGE&profileId=ACoAACOCjP8BN4ey1hpf1-88mrcN0Bn_3oyBfWY" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+</div>
+<div class="row">
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/Defensive Python.PNG" alt="Google IT Support" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">Defensive Python</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/KQ3JMEGPRW5X" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/Command-and-Control and Finding Credentials.PNG" alt="CCNA" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">Command-and-Control and Finding Credentials</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/VRQVN5MT08G4" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/Advanced Python Scripting for Cybersecurity.PNG" alt="Fortinet NSE1" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">Advanced Python Scripting for Cybersecurity</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/specialization/FIQK3LBF2T6K" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+</div>
+<div class="row">
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/Defensive Python.PNG" alt="Google IT Support" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">Advanced Python - Reconnaissance</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/3O4O00HAXOK5" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/Using APIs for Network Automation.PNG" alt="CCNA" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">Using APIs for Network Automation</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/KTIRLFIAEGO7" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/Network Security.PNG" alt="Fortinet NSE1" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">Network Security</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/BNS5ED6QU4V0" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+</div>
+<div class="row">
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/Network Automation Engineering Fundamentals.PNG" alt="Google IT Support" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">Network Automation Engineering Fundamentals</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/specialization/FTBX6N99XKEX" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/Introduction to Network Automation.PNG" alt="CCNA" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">Introduction to Network Automation</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/7MT9APU7HA3V" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/Introducing Model-Driven Programmability.PNG" alt="Fortinet NSE1" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">Introducing Model-Driven Programmability</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/P6XIDT22NT5P" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+</div>
+<div class="row">
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/FortiManager Administrator.PNG" alt="Google IT Support" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">FortiManager Administrator</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/YR99B9DYMOYI" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/FortiGate Administrator.PNG" alt="CCNA" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">FortiGate Administrator</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/GRHQR0MIWQSQ" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/FortiAnalyzer Administrator.PNG" alt="Fortinet NSE1" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">FortiAnalyzer Administrator</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/ARWVWICDH51K" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+</div>
+<div class="row">
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/Enterprise Firewall Administrator.PNG" alt="Google IT Support" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">Enterprise Firewall Administrator</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/NYYMRLRG5NDQ" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/DevOps for Network Automation (NetDevOps).PNG" alt="CCNA" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">DevOps for Network Automation (NetDevOps)</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/6K2NH31VXZPC" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/certifications/Ansible for Network Automation.PNG" alt="Fortinet NSE1" class="img-fluid rounded shadow-sm">
+    <p class="text-center mt-2 mb-1">Ansible for Network Automation</p>
+    <div class="text-center">
+      <a href="https://coursera.org/verify/AKVWAU28FR8G" target="_blank" class="btn btn-primary btn-sm">Verify</a>
+    </div>
+  </div>
+
+</div>
