@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Certifications
+title: Projects
 icon: fas fa-award
 order: 3
 ---
