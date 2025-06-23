@@ -40,7 +40,7 @@ order: 3
 
 <div class="project-grid">
   <div class="project-card">
-    <a href="/projects/androrat/">
+    <a href="/projects/androrat.md/">
       <img src="assets/img/projects/androrat.PNG" alt="AndroRAT Thumbnail">
       <h3>AndroRAT Deployment</h3>
     </a>
